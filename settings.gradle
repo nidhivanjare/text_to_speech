@@ -1,0 +1,2 @@
+rootProject.name='Text_Speech_Conversion'
+include ':app'
